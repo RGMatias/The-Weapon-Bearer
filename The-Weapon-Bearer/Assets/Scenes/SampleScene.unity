@@ -282,6 +282,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cf66f1e1558c2a46a16a6ab8b51b9e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  centro: {fileID: 701563387}
+  radio: -0.7
+  velocidadAngular: 200
 --- !u!212 &476712783
 SpriteRenderer:
   m_ObjectHideFlags: 0
